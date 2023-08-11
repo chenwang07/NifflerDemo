@@ -20,7 +20,7 @@ for their own trading strategies with the highest accuracy
 - Equity Option
   - [x] US Real-time 30s snapshot data
   - [x] HK Real-time 30s snapshot data
-  - [ ] SG Real-time tick data, real-time order book data, and historical K-line data
+  - [ ] SG Real-time 30s snapshot data
 
 ## Example for HK Market Data Sourcing:
 
