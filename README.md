@@ -26,7 +26,5 @@ for their own trading strategies with the highest accuracy
 
 ![Example Image 2](res/images/Example_hk_orderbook.png)
 
-- 
-
 ## Contact
 Have questions? Reach out to [the person to blame](https://www.linkedin.com/in/chenwang666/)
