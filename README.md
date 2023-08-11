@@ -15,10 +15,12 @@ for their own trading strategies with the highest accuracy
   - [x] US sp500 Real-time tick data, real-time order book data, and historical K-line data
   - [X] HK Real-time tick data, real-time order book data, and historical K-line data
   - [X] SH Real-time tick data, real-time order book data, and historical K-line data
+  - [ ] SG Real-time tick data, real-time order book data, and historical K-line data
 
 - Equity Option
   - [x] US Real-time 30s snapshot data
   - [x] HK Real-time 30s snapshot data
+  - [ ] SG Real-time tick data, real-time order book data, and historical K-line data
 
 ## Example for HK Market Data Sourcing:
 
