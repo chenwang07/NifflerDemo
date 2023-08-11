@@ -2,10 +2,10 @@
 
 ![Example Image](res/images/cover.png)
 
-Niffler is a cloud-based vendor-free framework (target is to switch in any vendor you want) for real-time tick 
-level market data, we process and store over 100GB data per day.
+Niffler is a cloud-based vendor-free framework (to switch to any vendor you want) for real-time tick 
+level market data, we process and store over 100GB of data per day.
 
-ALso, every researcher/trader could leverage the tick level market data and rebuild market structure to do the back-test 
+Also, every researcher/trader could leverage the tick-level market data and rebuild the market structure to do the back-test 
 for their own trading strategies with the highest accuracy
 
 (It's a demo repo, prod repo is private and under development and the API will be available soon)
