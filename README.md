@@ -8,7 +8,7 @@ level market data, we process and store over 100GB data per day.
 ALso, every researcher/trader could leverage the tick level market data and rebuild market structure to do the back-test 
 for their own trading strategies with the highest accuracy
 
-*It's a demo repo, prod repo is under development and will be release soon.
+*It's a demo repo, prod repo is under development and will be released soon.
 
 ## Data Available
 - Equity
