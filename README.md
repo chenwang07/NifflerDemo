@@ -10,7 +10,7 @@ for their own trading strategies with the highest accuracy
 
 *It's a demo repo, prod repo is under development and will be release soon.
 
-## Data Available: 
+## Data Available
 - Equity
   - [x] US sp500 Real-time tick data, real-time order book data, and historical K-line data
   - [X] HK Real-time tick data, real-time order book data, and historical K-line data
@@ -22,7 +22,7 @@ for their own trading strategies with the highest accuracy
   - [x] HK Real-time 30s snapshot data
   - [ ] SG Real-time 30s snapshot data
 
-## Example for HK Market Data Sourcing:
+## Example for HK Market Data Sourcing
 
 ![Example Image 2](res/images/Example_hk_orderbook.png)
 
