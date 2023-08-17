@@ -1,4 +1,4 @@
-# Niffler
+# Niffler Demo
 
 ## A trading framework for everyone
 
@@ -6,16 +6,16 @@
 
 ![Example Image](res/images/NifflerArchitectureV01WhiteSmall.png)
 
-Niffler is a cloud-based vendor-free framework (to switch to any vendor you want) for trading using tick-level data feed
+Niffler is a cloud-based vendor-free framework (to switch to any vendor you want) for trading using the tick-level data feed
 , we process and store over 100GB of data per day.
 
-It could provide sigal breakthrough notification, live curve and volatility surface calibration and risk calculation
+It could provide signal breakthrough notification, live curve, volatility surface calibration, and risk calculation
 
-Researcher/trader could leverage its ample market data to rebuild the market structure and back-test
+The researcher/trader could leverage its ample market data to rebuild the market structure and back-test
 their trading strategies with the highest accuracy
 
 
-(Currently prod repo is private and the application will be available soon)
+(Currently, the Niffler prod repo is private, it is the demo repo, and the application will be available soon)
 
 # Data Available
 - Equity
