@@ -1,4 +1,4 @@
-# Niffler Demo
+# Niffler Demo Repo
 
 ## A trading framework for everyone
 
