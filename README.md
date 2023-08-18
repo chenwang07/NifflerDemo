@@ -2,7 +2,11 @@
 
 ## A trading framework for everyone
 
-# Design
+# Design 
+
+![Example Image](res/images/NifflerArchV01WhiteSimpleSmall.png)
+
+# Design (with more details)
 
 ![Example Image](res/images/NifflerArchitectureV01WhiteSmall.png)
 
