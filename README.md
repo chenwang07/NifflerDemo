@@ -33,6 +33,9 @@ their trading strategies with the highest accuracy
   - [x] US Real-time 30s snapshot data
   - [x] HK Real-time 30s snapshot data
 
+- Futures
+  - [x] US Futures
+
 
 # Example for US Market Data Sourcing
 
