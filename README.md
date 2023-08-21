@@ -2,13 +2,13 @@
 
 ## A trading framework for everyone
 
-# Design 
+# Design
 
-![Example Image](res/images/NifflerArchV01WhiteSimpleSmall.png)
+![Example Image](res/images/NifflerArchV01SimpleSmall.png)
 
 # Design (with more details)
 
-![Example Image](res/images/NifflerArchitectureV01WhiteSmall.png)
+![Example Image](res/images/NifflerArchitectureV01Small.png)
 
 Niffler is a cloud-based vendor-free framework (to switch to any vendor you want) for trading using the tick-level data feed
 , we process and store over 100GB of data per day.
