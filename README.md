@@ -2,13 +2,13 @@
 
 ## A Trading Framework for Everyone
 
-Niffler is a cloud-based vendor-free framework (to switch to any vendor you want) for trading using the tick-level data feed
-, we process and store over 100GB(30 million+) of data per day.
+Niffler is a cloud-based machine-learning powered framework for back-testing and real-time trading
+leverage the tick-level data feed, we process and store over 100GB(30 million+) of data per day.
 
-It could provide signal notification, live curve, volatility surface calibration, and risk calculation
+Niffler could provide signal notification, live curve, volatility surface calibration, and real time risk calculation
 
-The researcher/trader could leverage its ample market data to rebuild the market structure and back-test
-their trading strategies with the highest accuracy. Users could receive the notification via either website or IM app such as WeChat, WhatsApp
+Researchers and traders could leverage its ample market data to rebuild the market structure and back-test
+their trading strategies with the highest accuracy. They could receive the notification via either website or IM app such as WeChat, WhatsApp
 
 (Currently, the Niffler prod repo is private, it is the demo repo, and the application will be available soon)
 
@@ -21,16 +21,6 @@ their trading strategies with the highest accuracy. Users could receive the noti
 
 ![Example Image](res/images/NifflerArchitectureV01Small.png)
 
-Niffler is a cloud-based vendor-free framework (to switch to any vendor you want) for trading using the tick-level data feed
-, we process and store over 100GB of data per day.
-
-It could provide signal breakthrough notification, live curve, volatility surface calibration, and risk calculation
-
-The researcher/trader could leverage its ample market data to rebuild the market structure and back-test
-their trading strategies with the highest accuracy
-
-
-(Currently, the Niffler prod repo is private, it is the demo repo, and the application will be available soon)
 
 # Data Available
 - Equity
