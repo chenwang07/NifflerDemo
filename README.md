@@ -19,7 +19,7 @@ their trading strategies with the highest accuracy. They could receive the notif
 
 # Design (with more details)
 
-![Example Image](res/images/NifflerArchitectureV01Small.png)
+![Example Image 2](res/images/NifflerArchitectureV01Small.png)
 
 
 # Data Available
@@ -40,7 +40,13 @@ their trading strategies with the highest accuracy. They could receive the notif
 
 # Example for US Market Data Sourcing
 
-![Example Image 2](res/images/Example_us_data.png)
+### Handling us market data
+![Example Image 3](res/images/Example_us_data.png)
+
+### MD5 Check for incoming market data
+![Example Image 4](res/images/md5_check.png)
+
+
 
 # Contact
 Have questions? Reach out to [the person to blame](https://www.linkedin.com/in/chenwang666/)
