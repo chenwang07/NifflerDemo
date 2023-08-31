@@ -1,5 +1,3 @@
-# Niffler Demo Repo
-
 ## A Trading Framework for Everyone
 
 Niffler is a cloud-based machine-learning powered framework for back-testing and real-time trading
