@@ -15,12 +15,11 @@ their trading strategies with the highest accuracy. They could receive the notif
 
 # Design
 
-![Example Image](res/images/NifflerArchV01SimpleSmall.png)
-
-# Design (with more details)
-
 ![Example Image 2](res/images/NifflerArchitectureV01Small.png)
 
+# Design (simplified)
+
+![Example Image](res/images/NifflerArchV01SimpleSmall.png)
 
 # Data Available
 - Equity
