@@ -42,8 +42,12 @@ their trading strategies with the highest accuracy. They could receive the notif
 ### Handling us market data
 ![Example Image 3](res/images/Example_us_data.png)
 
-### MD5 Check for incoming market data
-![Example Image 4](res/images/md5_check.png)
+### Email Notification
+
+![Example Image 4](res/images/email_notification.png)
+
+### MD5 Check for EOD data persistence
+![Example Image 5](res/images/md5_check.png)
 
 
 
