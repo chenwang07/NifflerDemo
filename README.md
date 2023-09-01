@@ -1,16 +1,14 @@
-# Niffler Demo Repo
-
 ## A Trading Framework for Everyone
 
-Niffler is a cloud-based machine-learning powered framework for back-testing and real-time trading
+Trade Copilot is a cloud-based machine-learning powered framework for back-testing and real-time trading
 leverage the tick-level data feed, we process and store over 100GB(30 million+) of data per day.
 
-Niffler could provide signal notification, live curve, volatility surface calibration, and real time risk calculation
+Trade Copilot could provide signal notification, live curve, volatility surface calibration, and real-time risk calculation
 
 Researchers and traders could leverage its ample market data to rebuild the market structure and back-test
-their trading strategies with the highest accuracy. They could receive the notification via either website or IM app such as WeChat, WhatsApp
+their trading strategies with the highest accuracy. They could receive the notification via either a website or IM app such as WeChat, WhatsApp
 
-(Currently, the Niffler prod repo is private, it is the demo repo, and the application will be available soon)
+(Currently, the Trade Copilot prod repo is private, it is the demo repo, and the application will be available soon)
 
 
 # Design
@@ -39,7 +37,7 @@ their trading strategies with the highest accuracy. They could receive the notif
 
 # Example for US Market Data Sourcing
 
-### Handling us market data
+### Handling US market data
 ![Example Image 3](res/images/Example_us_data.png)
 
 ### Email Notification
@@ -52,6 +50,6 @@ their trading strategies with the highest accuracy. They could receive the notif
 
 
 # Contact
-Have questions? Reach out to [the person to blame](https://www.linkedin.com/in/chenwang666/)
+Have questions or suggestions? Reach out to [me](https://www.linkedin.com/in/chenwang666/)
 
 
