@@ -19,8 +19,8 @@ their trading strategies with the highest accuracy. They could receive the notif
 
 ![Example Image](res/images/NifflerArchV01SimpleSmall.png)
 
-# Sub-component
-Node cache, help to accelerate the risk calculations: https://github.com/chenwang07/NodeCache
+# To support intra-day live risk calculation
+TraderCopilot integrated Node Cache, a module to helps accelerating the risk calculations: https://github.com/chenwang07/NodeCache
 
 # Data Available
 - Equity
