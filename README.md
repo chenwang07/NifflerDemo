@@ -1,14 +1,14 @@
-## A Trading Framework for Everyone
+## Your AI Pair Trading Assitant
 
-Trade Copilot is a cloud-based, distributed, AI-powered framework for risk calculation and real-time trading
+Trader Copilot is a cloud-based, distributed, AI-powered framework for risk calculation and real-time trading
 We leveraged the tick-level data feed, processed and stored over 100GB(30 million+) of data per day.
 
-Trade Copilot could provide intra-day risk calculation, signal notification, live curve building, and volatility surface calibration 
+Trader Copilot could provide intra-day risk calculation, signal notification, live curve building, and volatility surface calibration 
 
 PM and traders could leverage its ample market data to monitor the position, analyze the PnL, rebuild the market structure, and back-test
-their trading strategies with the highest accuracy. When they off, they could still receive the notification via either email or IM app such as WeChat, WhatsApp
+their trading strategies with the highest accuracy. When they are off, they could still receive the notification via either email or IM app such as WeChat, WhatsApp
 
-(Currently, the Trade Copilot is under development, it is the demo repo, and the application will be available soon)
+(Currently, the Trader Copilot is under development, it is the demo repo, and the application will be available soon)
 
 
 # Design
@@ -20,7 +20,7 @@ their trading strategies with the highest accuracy. When they off, they could st
 ![Example Image](res/images/NifflerArchV01SimpleSmall.png)
 
 # To support intra-day live risk calculation
-TraderCopilot integrated Node Cache, a module to helps accelerating the risk calculations: https://github.com/chenwang07/NodeCache
+TraderCopilot integrated Node Cache, a module to help accelerate the risk calculations: https://github.com/chenwang07/NodeCache
 
 # Data Available
 - Equity
