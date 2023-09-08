@@ -8,7 +8,7 @@ Trade Copilot could provide signal notification, live curve, volatility surface 
 Researchers and traders could leverage its ample market data to rebuild the market structure and back-test
 their trading strategies with the highest accuracy. They could receive the notification via either a website or IM app such as WeChat, WhatsApp
 
-(Currently, the Trade Copilot prod repo is private, it is the demo repo, and the application will be available soon)
+(Currently, the Trade Copilot is under development, it is the demo repo, and the application will be available soon)
 
 
 # Design
