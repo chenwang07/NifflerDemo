@@ -19,6 +19,9 @@ their trading strategies with the highest accuracy. They could receive the notif
 
 ![Example Image](res/images/NifflerArchV01SimpleSmall.png)
 
+# Sub-component
+Node cache, help to accelerate the risk calculations: https://github.com/chenwang07/NodeCache
+
 # Data Available
 - Equity
 
