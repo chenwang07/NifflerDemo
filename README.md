@@ -1,9 +1,8 @@
 ## Your AI Pair Trading Assitant
 
-Trader Copilot is a cloud-based, distributed, AI-powered framework for risk calculation and real-time trading
-We leveraged the tick-level data feed, processed and stored over 100GB(30 million+) of data per day.
+Trader Copilot is a cloud-based, distributed, AI-powered framework for risk calculation and real-time trading.
 
-Trader Copilot could provide intra-day risk calculation, signal notification, live curve building, and volatility surface calibration 
+We leveraged the tick-level data feed, processed and stored over 100GB(30 million+) of data per day. It could provide intra-day risk calculation, signal notification, live curve building, and volatility surface calibration 
 
 PM and traders could leverage its ample market data to monitor the position, analyze the PnL, rebuild the market structure, and back-test
 their trading strategies with the highest accuracy. When they are off, they could still receive the notification via either email or IM app such as WeChat, WhatsApp
